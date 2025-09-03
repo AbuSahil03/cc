@@ -5,7 +5,7 @@
   3) Replace all placeholders: YOUR_USERNAME, YOUR_NAME, YOUR_EMAIL, YOUR_LINKEDIN, etc.
 -->
 
-<h1 align="center">Hi there 👋, I'm Abu Sahil</h1>
+<h1 align="center">Hi there 👋, I'm Abu Sahil Islam Sardar</h1>
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME"><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" alt="profile views"></a>
